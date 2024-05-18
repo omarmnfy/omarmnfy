@@ -1,6 +1,6 @@
 # README.md
 
-x### Hi there! My name is Omar Mnfy.
+### Hi there! My name is Omar Mnfy.
 -----
 # :postbox: About Me
 My name is Omar and I am a Computer Science and Data Science student!
