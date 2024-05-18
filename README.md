@@ -1,5 +1,3 @@
-# README.md
-
 ### Hi there! My name is Omar Mnfy.
 -----
 # :postbox: About Me
