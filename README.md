@@ -1,16 +1,21 @@
-### Hi there 👋
+# README.md
 
-<!--
-**omarmnfy/omarmnfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+x### Hi there! My name is Omar Mnfy.
+-----
+# :postbox: About Me
+My name is Omar and I am a Computer Science and Data Science student!
 
-Here are some ideas to get you started:
+```java
+public class Omar
+{
+  private int age = 18;
+  public String[] interests = new String[] { "Building AI Projects", "Writing Stories", "Networking and Mentorship" };
+  public String[] skills = new String[] { "project management", "AI research", "data analystics", "data visualization" };
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# :round_pushpin: What Am I Doing?
+- :clipboard: Currently I am:
+  - Building AI-related projects.
+  - Working as a Research Data Anlayst at Sheung Lab.
+  - Interning as a Data Engineer at WholeRen.
