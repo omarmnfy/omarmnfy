@@ -19,5 +19,4 @@ public class Omar
   - Interning as a Data Engineer at WholeRen.
   
 
-<h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarmnfy&layout=compact&theme=" alt=omarmnfy />
