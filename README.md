@@ -8,7 +8,7 @@ public class Omar
 {
   private int age = 18;
   public String[] interests = new String[] { "Building AI Projects", "Writing Stories", "Networking and Mentorship" };
-  public String[] skills = new String[] { "project management", "AI research", "data analystics", "data visualization" };
+  public String[] skills = new String[] { "Project Management", "AI Research", "Data Analystics", "Data Visualization" };
 }
 ```
 
