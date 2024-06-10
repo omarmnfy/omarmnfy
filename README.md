@@ -17,3 +17,6 @@ public class Omar
   - Building AI-related projects.
   - Working as a Research Data Anlayst at Sheung Lab.
   - Interning as a Data Engineer at WholeRen.
+
+<div> <a href="https://github.com/omarmnfy" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div>
