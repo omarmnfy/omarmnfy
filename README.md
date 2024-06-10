@@ -18,5 +18,5 @@ public class Omar
   - Working as a Research Data Anlayst at Sheung Lab.
   - Interning as a Data Engineer at WholeRen.
 
-<div> <a href="https://github.com/omarmnfy" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarmnfy&layout=compact&theme=" alt=omarmnfy />
+
