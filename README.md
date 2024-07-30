@@ -1,4 +1,4 @@
-<h1 align="center">Ahoy, this is Omar Mnfy</h1>
+<h1 align="center">Omar Mnfy</h1>
 <h3 align="center">Computer Science & Data Science Sophomore at Pitzer College in Claremont, CA (graduating May 2027)</h3>
 
 - I’m currently looking for summer 2025 software engineering, data analytics/engineering, or product management internships (Mid-May — Mid-August).
