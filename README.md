@@ -1,5 +1,5 @@
 <h1 align="center">Ahoy, this is Omar Mnfy</h1>
-<h3 align="center">A Computer Science & Data Science Sophomore at Pitzer College in Claremont, California (graduating May 2027)</h3>
+<h3 align="center">A Computer Science & Data Science Sophomore at Pitzer College in Claremont, CA (graduating May 2027)</h3>
 
 - I’m currently looking for summer 2025 software engineering, data analytics/engineering, or product management internships (Mid-May — Mid-August).
 - This Summer, I worked as Data Analyst at W.M. Keck Science Research Center working on d developing a power-law fit algorithm in MATLAB and cleaning meta data for visualization and optimizing code improving computation power.
