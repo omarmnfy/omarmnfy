@@ -8,7 +8,7 @@
 <h3 align="left">Skills and Coursework:</h3>
 
 - **Coursework**: Data Structures and Algorithms, Foundations of Data Science, Linear Algebra, Multivariable Calculus, Statistics, Data Science Ethics, Introduction to Computer Science
-- **Fellowships**: Randall Lewis Center for Innovation and Entrepreneurship, Headstarter AI
+- **Fellowships**: Randall Lewis Center for Innovation and Entrepreneurship, Headstarter AI, Boulevard Fellowship
 - **Programming Languages**: Python, MATLAB, JavaScript, C/C++, SQL, HTML/CSS, R
 - **Libraries**: pandas, NumPy, Matplotlib, scikit-learn, Keras, TensorFlow, OpenCV, YOLO, Simulink, dplyr, ggplot2y
 - **Frameworks**: React, Node.js, Bootstrap, Flask, JUnit, WordPress, Material-UI, FastAPI, CUDA
