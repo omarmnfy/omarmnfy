@@ -12,5 +12,5 @@
 - **Programming Languages**: Python, MATLAB, JavaScript, C/C++, SQL, HTML/CSS, R
 - **Libraries**: pandas, NumPy, Matplotlib, scikit-learn, Keras, TensorFlow, OpenCV, YOLO, Simulink, dplyr, ggplot2y
 - **Frameworks**: React, Node.js, Bootstrap, Flask, JUnit, WordPress, Material-UI, FastAPI, CUDA
-- **DevOps and Infrastructure**:  Git, Amazon Web Services (AWS), Linux
-
+- **DevOps and Infrastructure**:  Git, Amazon Web Services (AWS), Google Cloud Platform, Microsoft Azure, Linux
+- **Technologies**: Power BI, Apache Spark 
