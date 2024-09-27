@@ -4,7 +4,7 @@
 
 ## 📮 Omar Who?
 
-```
+```java
 public class Omar
 {
   public String[] Education = new String[] {"Computer Science @ Pitzer College"};
