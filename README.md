@@ -8,8 +8,8 @@
 public class Omar
 {
   public String[] Education = new String[] {"Computer Science @ Pitzer College"};
-  public String[] CurrentPosition = new String[] {"AI/ML Engineer @ Lu, Inc."};
-  public String[] Experience = new String[] { "AI/ML", "Data", "Product"};
+  public String[] CurrentPosition = new String[] {"ex-Product @ Microsoft"};
+  public String[] Experience = new String[] { "Product", "AI/ML"};
 }
 ```
 
